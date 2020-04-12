@@ -8,10 +8,10 @@ This repo is an official implementation of ["Image Deblurring Using Tri-Segment 
 ## Main Results
 
 <figure class="half">
-    <img src="figs/blur1.jpg", width=230>
-    <img src="figs/deblur1.jpg", width=230>
-    <img src="figs/blur2.jpg", width=230>
-    <img src="figs/deblur2.jpg", width=230>
+    <img src="figs/blur1.jpg", width=200>
+    <img src="figs/deblur1.jpg", width=200>
+    <img src="figs/blur2.jpg", width=200>
+    <img src="figs/deblur2.jpg", width=200>
 </figure>
 
 The code will be available soon.
