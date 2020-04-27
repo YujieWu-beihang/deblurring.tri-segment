@@ -14,7 +14,10 @@ This repo is an official implementation of ["Image Deblurring Using Tri-Segment 
   <img src="figs/blur2.jpg", width=280 />  <img src="figs/deblur2.jpg", width=280 />  
 </div>
 
-The code will be available soon.
+## Testing
+```
+run demo_deblurring.m
+```
 
 ## Citing
 Please cite our paper in your publications if it helps your research:
